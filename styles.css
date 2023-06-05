@@ -1,0 +1,67 @@
+h1 {
+    color: #025157;
+  }
+  p {
+      color: #46484c;
+  }
+  body {
+      background-color: #fffbf7;
+  }
+  button {
+      color: #fff;
+      background-color: #025157;
+  }
+
+  .header {
+      margin: 40px 20px 0;
+      font-size: 0;
+  }
+  .header > * {
+      display: inline-block;
+      font-size: 16px;
+      vertical-align: middle;
+      height: 100%;
+      line-height: 45px;
+      font-family: sans-serif;
+      height: 110px;
+  }
+  .logo {
+      width: 15%;
+  }
+  .navbar {
+      width: 70%;
+      text-align: left;
+      color: #025157;
+      font-weight: 500;
+  }
+  li {
+      display: inline;
+      margin-right: 25px;
+      margin-left: 25px;
+  }
+  .actions {
+      width: 15%;
+      text-align: right;
+      font-size: 14px;
+      font-weight: 600;
+  }
+  .actions > * {
+      margin: 0 10px 0;
+  }
+  .actions a {
+      color: #67b54b;
+  }
+  .actions button {
+      color: #ffffff;
+      background-color: #67b54b;
+      padding: 12px 14px;
+      border: 0;
+      border-radius: 5px;
+  }
+  .main {
+      margin-top: 140px;
+      text-align: center;
+  }
+  li {
+
+  }
